@@ -24,6 +24,5 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Content Remove="Data\assort.json" />
-	  <Content Remove="Data\BKP_assort_BKP.json" />
 	</ItemGroup>
 </Project>

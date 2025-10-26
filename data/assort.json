@@ -767,7 +767,242 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		}	
+		},
+	    {
+	        "_id": "68fdc8f352f96cfff0e7c54e",
+	        "_tpl": "583990e32459771419544dd2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 60,
+		        "MaxDurability": 80
+		    },
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "Foldable": {
+		            "Folded": false
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "Custom AKS-74UN build by Jeronimo"
+                }
+	        }
+	    },
+	    {
+	        "_id": "68fdc8f3b96e12e54e299ed7",
+	        "_tpl": "651580dc71a4f10aec4b6056",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_pistol_grip"
+	    },
+	    {
+	        "_id": "68fdc8f3ba73cb59406eef5b",
+	        "_tpl": "66ac9d9740e27931602042d4",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_stock",
+	        "upd": {
+		        "SpawnedInSession": true
+	        }
+	    },
+	    {
+	        "_id": "68fdc8f3dd8be16c0941f2fd",
+	        "_tpl": "5bed61680db834001d2c45ab",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_magazine"
+	    },
+	    {
+	        "_id": "68fdc8f3e2235785af632b7f",
+	        "_tpl": "5649ab884bdc2ded0b8b457f",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_muzzle"
+	    },
+	    {
+	        "_id": "68fdc8f3a7b13ee43f843bbf",
+	        "_tpl": "655cb6b5d680a544f30607fa",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_reciever"
+	    },
+	    {
+	        "_id": "68fdc8f33dbf11171c6b5478",
+	        "_tpl": "59d36a0086f7747e673f3946",
+	        "parentId": "68fdc8f352f96cfff0e7c54e",
+	        "slotId": "mod_gas_block"
+	    },
+	    {
+	        "_id": "68fdc8f3b7fb0541a508d9cb",
+	        "_tpl": "591c4efa86f7741030027726",
+	        "parentId": "68fdc8f3a7b13ee43f843bbf",
+	        "slotId": "mod_scope",
+	        "upd": {
+		        "Sight": {
+		        "ScopesCurrentCalibPointIndexes": [
+			        0
+		        ],
+		        "ScopesSelectedModes": [
+			        0
+		        ],
+		        "SelectedScope": 0,
+		        "ScopeZoomValue": 0
+		        }
+	        }
+	    },
+	    {
+	        "_id": "68fdc8f3b4681efc2cf70b9c",
+	        "_tpl": "57ffa9f4245977728561e844",
+	        "parentId": "68fdc8f33dbf11171c6b5478",
+	        "slotId": "mod_handguard"
+	    },
+	    {
+	        "_id": "68fdc8f3c46e2c729395a137",
+	        "_tpl": "59fc48e086f77463b1118392",
+	        "parentId": "68fdc8f3b4681efc2cf70b9c",
+	        "slotId": "mod_foregrip"
+	    },
+	    {
+	        "_id": "68fdc8f32c4e5c1eabdbfbbc",
+	        "_tpl": "5a7b483fe899ef0016170d15",
+	        "parentId": "68fdc8f3b4681efc2cf70b9c",
+	        "slotId": "mod_tactical_000",
+	        "upd": {
+		        "Light": {
+		        "IsActive": true,
+		        "SelectedMode": 0
+		        }
+	        }
+	    },
+
+        {
+            "_id": "68fdcb8975e2b4fca2540c54",
+            "_tpl": "5447a9cd4bdc2dbd208b4567",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "Repairable": {
+                    "Durability": 60,
+                    "MaxDurability": 80
+                },
+                "FireMode": {
+                    "FireMode": "single"
+                },
+		        "Foldable": {
+		            "Folded": false
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "Custom M4A1 build by Jeronimo"
+                }
+            }
+        },
+        {
+            "_id": "68fdcb89ea816c32bb6cfd51",
+            "_tpl": "55802f5d4bdc2dac148b458f",
+            "parentId": "68fdcb8975e2b4fca2540c54",
+            "slotId": "mod_pistol_grip"
+        },
+        {
+            "_id": "68fdcb89633d73959335c3f7",
+            "_tpl": "55802d5f4bdc2dac148b458e",
+            "parentId": "68fdcb8975e2b4fca2540c54",
+            "slotId": "mod_magazine"
+        },
+        {
+            "_id": "68fdcb89242b6b8e707f46a5",
+            "_tpl": "55d355e64bdc2d962f8b4569",
+            "parentId": "68fdcb8975e2b4fca2540c54",
+            "slotId": "mod_reciever"
+        },
+        {
+            "_id": "68fdcb8985d3f5e06d4d5cfc",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "68fdcb8975e2b4fca2540c54",
+            "slotId": "mod_stock"
+        },
+        {
+            "_id": "68fdcb89c5dc2403c15972e6",
+            "_tpl": "55d44fd14bdc2d962f8b456e",
+            "parentId": "68fdcb8975e2b4fca2540c54",
+            "slotId": "mod_charge"
+        },
+        {
+            "_id": "68fdcb89339380b98d2eef41",
+            "_tpl": "584924ec24597768f12ae244",
+            "parentId": "68fdcb89242b6b8e707f46a5",
+            "slotId": "mod_scope",
+            "upd": {
+                "SpawnedInSession": true,
+                "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                        0
+                ],
+                "ScopesSelectedModes": [
+                    0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+                }
+            }
+        },
+        {
+            "_id": "68fdcb89aef29f009ddbaef6",
+            "_tpl": "63d3ce0446bd475bcb50f55f",
+            "parentId": "68fdcb89242b6b8e707f46a5",
+            "slotId": "mod_barrel"
+        },
+        {
+            "_id": "68fdcb891e1cafbe9198da1c",
+            "_tpl": "588b56d02459771481110ae2",
+            "parentId": "68fdcb89242b6b8e707f46a5",
+            "slotId": "mod_handguard"
+        },
+        {
+            "_id": "68fdcb893b6dad3e80b743b8",
+            "_tpl": "56eabf3bd2720b75698b4569",
+            "parentId": "68fdcb8985d3f5e06d4d5cfc",
+            "slotId": "mod_stock_000",
+            "upd": {
+                "SpawnedInSession": true
+            }
+        },
+        {
+            "_id": "68fdcb8906282f35531a291a",
+            "_tpl": "5cf6937cd7f00c056c53fb39",
+            "parentId": "68fdcb89aef29f009ddbaef6",
+            "slotId": "mod_muzzle"
+        },
+        {
+            "_id": "68fdcb898568fc1873242688",
+            "_tpl": "63d3ce281fe77d0f2801859e",
+            "parentId": "68fdcb89aef29f009ddbaef6",
+            "slotId": "mod_gas_block"
+        },
+        {
+            "_id": "68fdcb89d3ec81409cb20bec",
+            "_tpl": "5a7b483fe899ef0016170d15",
+            "parentId": "68fdcb891e1cafbe9198da1c",
+            "slotId": "mod_tactical001",
+            "upd": {
+                "Light": {
+                    "IsActive": true,
+                    "SelectedMode": 0
+                }
+            }
+        },
+        {
+            "_id": "68fdcb89fd2301061b76d336",
+            "_tpl": "6396aaa9a52ace83df0840ab",
+            "parentId": "68fdcb891e1cafbe9198da1c",
+            "slotId": "mod_handguard"
+        },
+        {
+            "_id": "68fdcb890f126ef7432abc52",
+            "_tpl": "59fc48e086f77463b1118392",
+            "parentId": "68fdcb89fd2301061b76d336",
+            "slotId": "mod_foregrip"
+        }
+    
 
     ],
     "barter_scheme": {
@@ -1057,6 +1292,24 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
+        ],
+        
+        "68fdc8f352f96cfff0e7c54e": [
+            [
+                {
+                    "count": 122999,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        
+        "68fdcb8975e2b4fca2540c54": [
+            [
+                {
+                    "count": 159000,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
         ]
     },
     "loyal_level_items": {
@@ -1091,6 +1344,8 @@
         "68f662232888aaabbb3456c8": 1,
         "68f662243999bbbccc4567d9": 1,
         "68f66225aaacccdddd5678ea": 1,
-        "68f66226bbbdddeee6789fab": 1
+        "68f66226bbbdddeee6789fab": 1,
+        "68fdc8f352f96cfff0e7c54e": 1,
+        "68fdcb8975e2b4fca2540c54": 1
     }
 }
