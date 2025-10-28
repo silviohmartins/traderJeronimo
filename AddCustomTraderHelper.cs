@@ -45,7 +45,6 @@ public class AddCustomTraderHelper(
     /// <param name="traderDetailsToAdd">trader details</param>
     public void AddTraderWithEmptyAssortToDb(TraderBase traderDetailsToAdd)
     {
-        // Create an empty assort ready for our items
         var emptyTraderItemAssortObject = new TraderAssort
         {
             Items = [],
@@ -53,7 +52,6 @@ public class AddCustomTraderHelper(
             LoyalLevelItems = new Dictionary<MongoId, int>()
         };
 
-        // Create trader data ready to add to database
         var traderDataToAdd = new Trader
         {
             Assort = emptyTraderItemAssortObject,
@@ -68,7 +66,6 @@ public class AddCustomTraderHelper(
             Dialogue = []
         };
 
-        // Add the new trader id and data to the server
         if (!databaseService.GetTables().Traders.TryAdd(traderDetailsToAdd.Id, traderDataToAdd))
         {
             //Failed to add trader!
@@ -83,7 +80,6 @@ public class AddCustomTraderHelper(
     /// <param name="description">Flavor text of whom the trader is</param>
     public void AddTraderToLocales(TraderBase baseJson, string firstName, string description)
     {
-        // For each language, add locale for the new trader
         var locales = databaseService.GetTables().Locales.Global;
         var newTraderId = baseJson.Id;
         var fullName = baseJson.Name;
@@ -92,8 +88,6 @@ public class AddCustomTraderHelper(
 
         foreach (var (localeKey, localeKvP) in locales)
         {
-            // We have to add a transformer here, because locales are lazy loaded due to them taking up huge space in memory
-            // The transformer will make sure that each time the locales are requested, the ones added below are included
             localeKvP.AddTransformer(lazyloadedLocaleData =>
             {
                 lazyloadedLocaleData.Add($"{newTraderId} FullName", fullName);
@@ -120,7 +114,6 @@ public class AddCustomTraderHelper(
             return;
         }
 
-        // Override the traders assorts with the ones we passed in
         traderToEdit.Assort = newAssorts;
     }
 }

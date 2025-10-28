@@ -6,16 +6,16 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<OutputType>Library</OutputType>
-		<Version>1.0.0</Version>
+		<Version>1.1.0</Version>
 		<!-- The two lines below will set the output path for the binaries -->
 		<OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)\</OutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<AssemblyName>traderJeronimo</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="SPTarkov.Common" Version="4.0.1" />
-		<PackageReference Include="SPTarkov.DI" Version="4.0.1" />
-		<PackageReference Include="SPTarkov.Server.Core" Version="4.0.1" />
+		<PackageReference Include="SPTarkov.Common" Version="4.0.2" />
+		<PackageReference Include="SPTarkov.DI" Version="4.0.2" />
+		<PackageReference Include="SPTarkov.Server.Core" Version="4.0.2" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="Data\**">
@@ -24,5 +24,8 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Content Remove="Data\assort.json" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Content Include="data\Backup\BKP_assort.json.bak" />
 	</ItemGroup>
 </Project>
