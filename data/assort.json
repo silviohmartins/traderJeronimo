@@ -1345,6 +1345,131 @@
 			}
 		},
 
+        {
+            "_id": "690599ec69cf3a162f32171a",
+            "_tpl": "67d41936f378a36c4706eeb9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "UnlimitedCount": true,
+                "StackObjectsCount": 20,
+				"BuyRestrictionMax": 20,
+				"BuyRestrictionCurrent": 0
+            }
+        },
+        {
+            "_id": "690599ef01df17765c46a1e9",
+            "_tpl": "67dc212493ce32834b0fa446",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "UnlimitedCount": true,
+                "StackObjectsCount": 20,
+				"BuyRestrictionMax": 20,
+				"BuyRestrictionCurrent": 0
+            }
+        },
+        {
+            "_id": "690599f3344347bc99596835",
+            "_tpl": "67dc255ee3028a8b120efc48",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "UnlimitedCount": true,
+                "StackObjectsCount": 20,
+				"BuyRestrictionMax": 20,
+				"BuyRestrictionCurrent": 0
+            }
+        },
+        {
+            "_id": "690599f6beccc374a1e39cdd",
+            "_tpl": "67dc2648ba5b79876906a166",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "UnlimitedCount": true,
+                "StackObjectsCount": 20,
+				"BuyRestrictionMax": 20,
+				"BuyRestrictionCurrent": 0
+            }
+        },	
+        {
+            "_id": "69059a184ed58b8a70e75121",
+            "_tpl": "67d418d0ffb910d21f04720e",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "UnlimitedCount": true,
+                "StackObjectsCount": 2,
+				"BuyRestrictionMax": 2,
+				"BuyRestrictionCurrent": 0
+            }
+        },	        
+
+	    {
+	        "_id": "690588a4e8b71c302935c887",
+	        "_tpl": "67d0576f29f580ebc10efd08",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 92,
+		        "MaxDurability": 100	
+				},
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "TheAkGuy AK-50 build by Jeronimo"
+                },
+				"StackObjectsCount": 1
+	        }
+	    },
+	    {
+	        "_id": "690589f57cd6dd6b609af033",
+	        "_tpl": "6087e663132d4d12c81fd96b",
+	        "parentId": "690588a4e8b71c302935c887",
+	        "slotId": "mod_pistol_grip"
+	    },
+	    {
+	        "_id": "69058a0f36218af6ea583dbf",
+	        "_tpl": "67d418d0ffb910d21f04720e",
+	        "parentId": "690588a4e8b71c302935c887",
+	        "slotId": "mod_magazine"
+	    },
+	    {
+	        "_id": "69058a3d15c32fc8d983868b",
+	        "_tpl": "67d416e19bd76ef20f0e743b",
+	        "parentId": "690588a4e8b71c302935c887",
+	        "slotId": "mod_reciever"
+	    },
+	    {
+	        "_id": "69058a5ea80c6ed764bd8279",
+	        "_tpl": "67d4178bffb910d21f04720a",
+	        "parentId": "690588a4e8b71c302935c887",
+	        "slotId": "mod_barrel"
+	    },
+	    {
+	        "_id": "69058c37d21523f8cdddff38",
+	        "_tpl": "67d417c023ec241bb70d4896",
+	        "parentId": "69058a5ea80c6ed764bd8279",
+	        "slotId": "mod_gas_block"
+	    },
+		{
+	        "_id": "69058e7ba0d92749580fa7f6",
+	        "_tpl": "67d41883f378a36c4706eeb7",
+	        "parentId": "69058a5ea80c6ed764bd8279",
+	        "slotId": "mod_muzzle"
+	    },
+	    {
+	        "_id": "69058a74a991bce48dc196b5",
+	        "_tpl": "6130ca3fd92c473c77020dbd",
+	        "parentId": "690588a4e8b71c302935c887",
+	        "slotId": "mod_charge"
+	    },        
+
 
 	    {
 	        "_id": "68fdc8f352f96cfff0e7c54e",
@@ -1354,7 +1479,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 60,
-		        "MaxDurability": 80
+		        "MaxDurability": 70
 		    },
 		        "FireMode": {
 		            "FireMode": "single"
@@ -1366,7 +1491,8 @@
 		        "Weapon": {
 		            "Name": "Jeronimo Edition",
 		            "Description": "Custom AKS-74UN build by Jeronimo"
-                }
+                },
+				"StackObjectsCount": 2
 	        }
 	    },
 	    {
@@ -1459,7 +1585,7 @@
             "upd": {
                 "Repairable": {
                     "Durability": 60,
-                    "MaxDurability": 80
+                    "MaxDurability": 70
                 },
                 "FireMode": {
                     "FireMode": "single"
@@ -1579,7 +1705,521 @@
             "_tpl": "59fc48e086f77463b1118392",
             "parentId": "68fdcb89fd2301061b76d336",
             "slotId": "mod_foregrip"
-        }
+        },
+
+	    {
+	        "_id": "69062648b72eed31bbaaefd0",
+	        "_tpl": "5447a9cd4bdc2dbd208b4567",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 73,
+		        "MaxDurability": 80	
+				},
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "Colt M4A1 5.56x45 assault rifle USASOC-I by Jeronimo"
+                },
+				"StackObjectsCount": 2
+	        }
+	    },
+		{
+            "_id": "69062841e93230067dab4f0c",
+            "_tpl": "5d15cf3bd7ad1a67e71518b2",
+            "parentId": "69062648b72eed31bbaaefd0",
+            "slotId": "mod_pistol_grip"
+		},
+		{
+            "_id": "69062846745e80000bd178d0",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "parentId": "69062648b72eed31bbaaefd0",
+            "slotId": "mod_magazine"
+		},
+		{
+            "_id": "69062849c2a1aad7660b697b",
+            "_tpl": "55d355e64bdc2d962f8b4569",
+            "parentId": "69062648b72eed31bbaaefd0",
+            "slotId": "mod_reciever"
+		},
+		{
+            "_id": "6906284f5a01fc7d557012eb",
+            "_tpl": "5c7d55f52e221644f31bff6a",
+            "parentId": "69062849c2a1aad7660b697b",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "69062857b5bc0f422af5440d",
+            "_tpl": "5c7d560b2e22160bc12c6139",
+            "parentId": "6906284f5a01fc7d557012eb",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "69062860492fdc7026351497",
+            "_tpl": "5c7d55de2e221644f31bff68",
+            "parentId": "69062857b5bc0f422af5440d",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "69062863d98ba583c2404173",
+            "_tpl": "55d35ee94bdc2d61338b4568",
+            "parentId": "69062849c2a1aad7660b697b",
+            "slotId": "mod_barrel"
+		},
+		{
+            "_id": "6906286b236684cff6c185f8",
+            "_tpl": "5ea172e498dacb342978818e",
+            "parentId": "69062863d98ba583c2404173",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "69062870a4469c43213b6d62",
+            "_tpl": "5ea17bbc09aa976f2e7a51cd",
+            "parentId": "6906286b236684cff6c185f8",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "6906287333ee80ae9bd69c86",
+            "_tpl": "5d00ec68d7ad1a04a067e5be",
+            "parentId": "69062863d98ba583c2404173",
+            "slotId": "mod_gas_block"
+		},
+		{
+            "_id": "69062876345a565cf19b76c1",
+            "_tpl": "5ea16acdfadf1d18c87b0784",
+            "parentId": "69062849c2a1aad7660b697b",
+            "slotId": "mod_handguard"
+		},
+		{
+            "_id": "6906287c04627b3b7506e4a4",
+            "_tpl": "5c06595c0db834001a66af6c",
+            "parentId": "69062876345a565cf19b76c1",
+            "slotId": "mod_tactical_000"
+		},
+		{
+            "_id": "6906287fd9f3df528aa65875",
+            "_tpl": "5c18b90d2e2216152142466b",
+            "parentId": "69062876345a565cf19b76c1",
+            "slotId": "mod_sight_front"
+		},
+		{
+            "_id": "69062882d6842027e35bd443",
+            "_tpl": "5c18b9192e2216398b5a8104",
+            "parentId": "69062849c2a1aad7660b697b",
+            "slotId": "mod_sight_rear"
+		},
+		{
+            "_id": "69062886eca48206ab1c0a99",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "69062648b72eed31bbaaefd0",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "6906288cf9510183c973c0a2",
+            "_tpl": "5d135ecbd7ad1a21c176542e",
+            "parentId": "69062886eca48206ab1c0a99",
+            "slotId": "mod_stock_000"
+		},
+		{
+            "_id": "6906288fb670b054f6446d49",
+            "_tpl": "5ea16d4d5aad6446a939753d",
+            "parentId": "69062648b72eed31bbaaefd0",
+            "slotId": "mod_charge"
+		},
+        
+	    {
+	        "_id": "690631939677f7bd4995ae2d",
+	        "_tpl": "5644bd2b4bdc2d3b4c8b4572",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 73,
+		        "MaxDurability": 80	
+				},
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "Kalashnikov AK-74N 5.45x39 assault rifle Magpul by Jeronimo"
+                },
+				"StackObjectsCount": 2
+	        }
+	    },
+		{
+            "_id": "6906319ef01ffc5ff0025643",
+            "_tpl": "59c6633186f7740cf0493bb9",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_gas_block"
+		},
+		{
+            "_id": "690631a4b9cb908b4bf0ead8",
+            "_tpl": "57cffddc24597763133760c6",
+            "parentId": "6906319ef01ffc5ff0025643",
+            "slotId": "mod_handguard"
+		},
+		{
+            "_id": "690631aab8e6bbbe82d35745",
+            "_tpl": "57cffcd624597763133760c5",
+            "parentId": "690631a4b9cb908b4bf0ead8",
+            "slotId": "mod_mount_003"
+		},
+		{
+            "_id": "690631af27ce4327899bcaf7",
+            "_tpl": "5649ab884bdc2ded0b8b457f",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "690631b207740e0bb1e6bdf4",
+            "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_pistol_grip"
+		},
+		{
+            "_id": "690631b5327cd1f275f83530",
+            "_tpl": "5649af094bdc2df8348b4586",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_reciever"
+		},
+		{
+            "_id": "690631b859826e8e86fc63ec",
+            "_tpl": "5649d9a14bdc2d79388b4580",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_sight_rear"
+		},
+		{
+            "_id": "690631bed3ac871df89adf3c",
+            "_tpl": "58491f3324597764bc48fa02",
+            "parentId": "690631b859826e8e86fc63ec",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "690631c121ce733432c7c5a1",
+            "_tpl": "5649b2314bdc2d79388b4576",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "690631c6c2219ad346adfc59",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "690631c121ce733432c7c5a1",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "690631cc09340ca142aa5099",
+            "_tpl": "58d2946386f774496974c37e",
+            "parentId": "690631c6c2219ad346adfc59",
+            "slotId": "mod_stock_000"
+		},
+		{
+            "_id": "690631d1b6501459d3a031ec",
+            "_tpl": "58d2912286f7744e27117493",
+            "parentId": "690631cc09340ca142aa5099",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "690631d40627e1c5f788a136",
+            "_tpl": "55d482194bdc2d1d4e8b456b",
+            "parentId": "690631939677f7bd4995ae2d",
+            "slotId": "mod_magazine"
+		},
+        
+	    {
+	        "_id": "69063eb38acdc76d8466b29c",
+	        "_tpl": "5447a9cd4bdc2dbd208b4567",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 81,
+		        "MaxDurability": 90	
+				},
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "Colt M4A1 5.56x45 assault rifle T.O 2K24 by Jeronimo"
+                },
+				"StackObjectsCount": 2
+	        }
+	    },
+		{
+            "_id": "69063ec106cfa0a37de6d698",
+            "_tpl": "5d15cf3bd7ad1a67e71518b2",
+            "parentId": "69063eb38acdc76d8466b29c",
+            "slotId": "mod_pistol_grip"
+		},
+		{
+            "_id": "69063ec4987941abfdd5dd91",
+            "_tpl": "59bfe68886f7746004266202",
+            "parentId": "69063eb38acdc76d8466b29c",
+            "slotId": "mod_reciever"
+		},
+		{
+            "_id": "69063eca34254d4a61e9e56c",
+            "_tpl": "63d3d44a2a49307baf09386d",
+            "parentId": "69063ec4987941abfdd5dd91",
+            "slotId": "mod_barrel"
+		},
+		{
+            "_id": "69063ed1eed30c3f8ace9e69",
+            "_tpl": "63d3ce281fe77d0f2801859e",
+            "parentId": "69063eca34254d4a61e9e56c",
+            "slotId": "mod_gas_block"
+		},
+		{
+            "_id": "69063ed44bb664d406e2b25b",
+            "_tpl": "5c6d710d2e22165df16b81e7",
+            "parentId": "69063eca34254d4a61e9e56c",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "69063eda680c79f0c5dfc289",
+            "_tpl": "5ea17bbc09aa976f2e7a51cd",
+            "parentId": "69063ed44bb664d406e2b25b",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "69063edd722cf2becdcafa85",
+            "_tpl": "5ea16ada09aa976f2e7a51be",
+            "parentId": "69063ec4987941abfdd5dd91",
+            "slotId": "mod_handguard"
+		},
+		{
+            "_id": "69063ee3c9a30da3f5b5f88d",
+            "_tpl": "5c18b90d2e2216152142466b",
+            "parentId": "69063edd722cf2becdcafa85",
+            "slotId": "mod_sight_front"
+		},
+		{
+            "_id": "69063ee6213086fdc07e017b",
+            "_tpl": "5b7be4895acfc400170e2dd5",
+            "parentId": "69063edd722cf2becdcafa85",
+            "slotId": "mod_foregrip"
+		},
+		{
+            "_id": "69063eec43b1192942f580aa",
+            "_tpl": "655df24fdf80b12750626d0a",
+            "parentId": "69063ee6213086fdc07e017b",
+            "slotId": "mod_foregrip"
+		},
+		{
+            "_id": "69063eee3092259774ebb271",
+            "_tpl": "6269545d0e57f218e4548ca2",
+            "parentId": "69063edd722cf2becdcafa85",
+            "slotId": "mod_mount_002"
+		},
+		{
+            "_id": "69063ef403df96891ead87db",
+            "_tpl": "626becf9582c3e319310b837",
+            "parentId": "69063eee3092259774ebb271",
+            "slotId": "mod_tactical"
+		},
+		{
+            "_id": "69063ef61bf72424823ca025",
+            "_tpl": "5c18b9192e2216398b5a8104",
+            "parentId": "69063ec4987941abfdd5dd91",
+            "slotId": "mod_sight_rear"
+		},
+		{
+            "_id": "69063ef95481ae2c99c8cbc7",
+            "_tpl": "6567e751a715f85433025998",
+            "parentId": "69063ec4987941abfdd5dd91",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "69063efe86f35e61a27ba4fd",
+            "_tpl": "618ba27d9008e4636a67f61d",
+            "parentId": "69063ef95481ae2c99c8cbc7",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "69063f0166c67d3dfc0879f7",
+            "_tpl": "5c793fc42e221600114ca25d",
+            "parentId": "69063eb38acdc76d8466b29c",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "69063f064eff25682a2e309b",
+            "_tpl": "5d135ecbd7ad1a21c176542e",
+            "parentId": "69063f0166c67d3dfc0879f7",
+            "slotId": "mod_stock_000"
+		},
+		{
+            "_id": "69063f09023ef80326269ff2",
+            "_tpl": "5ea16d4d5aad6446a939753d",
+            "parentId": "69063eb38acdc76d8466b29c",
+            "slotId": "mod_charge"
+		},
+		{
+            "_id": "69063f0ca150758903cf0560",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "parentId": "69063eb38acdc76d8466b29c",
+            "slotId": "mod_magazine"
+		},
+        
+	    {
+	        "_id": "6906400e53370f04678c9a21",
+	        "_tpl": "5fbcc1d9016cce60e8341ab3",
+            "parentId": "hideout",
+            "slotId": "hideout",
+	        "upd": {
+		        "Repairable": {
+		        "Durability": 81,
+		        "MaxDurability": 90	
+				},
+		        "FireMode": {
+		            "FireMode": "single"
+		        },
+		        "SpawnedInSession": false,
+		        "Weapon": {
+		            "Name": "Jeronimo Edition",
+		            "Description": "SIG MCX .300 Blackout assault rifle T.O 2K24 by Jeronimo"
+                },
+				"StackObjectsCount": 2
+	        }
+	    },
+		{
+            "_id": "6906402490e17be22795a961",
+            "_tpl": "6113cc78d3a39d50044c065a",
+            "parentId": "6906400e53370f04678c9a21",
+            "slotId": "mod_pistol_grip"
+		},
+		{
+            "_id": "690640291d092ffc30b7fe0d",
+            "_tpl": "5fbcc3e4d6fa9c00c571bb58",
+            "parentId": "6906400e53370f04678c9a21",
+            "slotId": "mod_reciever"
+		},
+		{
+            "_id": "6906402e1492d0e51dc6b9bf",
+            "_tpl": "5fbbfabed5cb881a7363194e",
+            "parentId": "690640291d092ffc30b7fe0d",
+            "slotId": "mod_barrel"
+		},
+		{
+            "_id": "690640335bf57619e84e95d5",
+            "_tpl": "5fbc210bf24b94483f726481",
+            "parentId": "6906402e1492d0e51dc6b9bf",
+            "slotId": "mod_gas_block"
+		},
+		{
+            "_id": "69064036ea5328c8e2a7f3d9",
+            "_tpl": "5fbc22ccf24b94483f726483",
+            "parentId": "6906402e1492d0e51dc6b9bf",
+            "slotId": "mod_muzzle"
+		},
+		{
+            "_id": "6906403c47dd897cfb8b9767",
+            "_tpl": "5fbcbd10ab884124df0cd563",
+            "parentId": "69064036ea5328c8e2a7f3d9",
+            "slotId": "mod_muzzle_000"
+		},
+		{
+            "_id": "6906403f0bc60a77e87133e6",
+            "_tpl": "5fbe760793164a5b6278efc8",
+            "parentId": "69064036ea5328c8e2a7f3d9",
+            "slotId": "mod_muzzle_001"
+		},
+		{
+            "_id": "69064041a965b8ded94b2b9e",
+            "_tpl": "5fbc226eca32ed67276c155d",
+            "parentId": "690640291d092ffc30b7fe0d",
+            "slotId": "mod_handguard"
+		},
+		{
+            "_id": "690640478a0d6868e10cb915",
+            "_tpl": "59e0bed186f774156f04ce84",
+            "parentId": "69064041a965b8ded94b2b9e",
+            "slotId": "mod_foregrip"
+		},
+		{
+            "_id": "6906404e4d10ee48009ecc5b",
+            "_tpl": "5c791e872e2216001219c40a",
+            "parentId": "690640478a0d6868e10cb915",
+            "slotId": "mod_foregrip"
+		},
+		{
+            "_id": "6906405526bed4bea66c2b79",
+            "_tpl": "5fc0fa362770a0045c59c677",
+            "parentId": "69064041a965b8ded94b2b9e",
+            "slotId": "mod_sight_front"
+		},
+		{
+            "_id": "690640599aec0c396fad6b72",
+            "_tpl": "5a9d6d00a2750c5c985b5305",
+            "parentId": "69064041a965b8ded94b2b9e",
+            "slotId": "mod_mount_000"
+		},
+		{
+            "_id": "6906405e640c02455afa51d6",
+            "_tpl": "57d17e212459775a1179a0f5",
+            "parentId": "690640599aec0c396fad6b72",
+            "slotId": "mod_tactical"
+		},
+		{
+            "_id": "690640634c20ea75e1be0c88",
+            "_tpl": "57d17c5e2459775a5c57d17d",
+            "parentId": "6906405e640c02455afa51d6",
+            "slotId": "mod_flashlight"
+		},
+		{
+            "_id": "69064067d1143fb2b263bb04",
+            "_tpl": "5fc0fa957283c4046c58147e",
+            "parentId": "690640291d092ffc30b7fe0d",
+            "slotId": "mod_sight_rear"
+		},
+		{
+            "_id": "6906406aaa1e25ec6cd5f9b9",
+            "_tpl": "655f13e0a246670fb0373245",
+            "parentId": "690640291d092ffc30b7fe0d",
+            "slotId": "mod_scope"
+		},
+		{
+            "_id": "6906406d0d4d00b276d55015",
+            "_tpl": "5fbcc640016cce60e8341acc",
+            "parentId": "6906400e53370f04678c9a21",
+            "slotId": "mod_charge"
+		},
+		{
+            "_id": "69064070997e606e32deed31",
+            "_tpl": "5d1340cad7ad1a0b0b249869",
+            "parentId": "6906400e53370f04678c9a21",
+            "slotId": "mod_magazine"
+		},
+		{
+            "_id": "69064073bd7abc2c20e1e083",
+            "_tpl": "58ac1bf086f77420ed183f9f",
+            "parentId": "6906400e53370f04678c9a21",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "69064077e82216b742437232",
+            "_tpl": "5c793fb92e221644f31bfb64",
+            "parentId": "69064073bd7abc2c20e1e083",
+            "slotId": "mod_stock"
+		},
+		{
+            "_id": "6906407f81a4ad24067d700e",
+            "_tpl": "6516e971a3d4c6497930b450",
+            "parentId": "69064077e82216b742437232",
+            "slotId": "mod_stock_000"
+		},
+		{
+            "_id": "690640841e734cd94747aa32",
+            "_tpl": "6516e9d7e239bd0c487e3766",
+            "parentId": "6906407f81a4ad24067d700e",
+            "slotId": "mod_stock_000"
+		}        
     
 
     ],
@@ -2087,11 +2727,20 @@
                 }
             ]
         ],
+
+        "690588a4e8b71c302935c887": [
+            [
+                {
+                    "count": 999000,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],	        
         
         "68fdc8f352f96cfff0e7c54e": [
             [
                 {
-                    "count": 122999,
+                    "count": 56856,
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
@@ -2100,11 +2749,88 @@
         "68fdcb8975e2b4fca2540c54": [
             [
                 {
-                    "count": 159000,
+                    "count": 79266,
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ]
+        ],
+
+        "69062648b72eed31bbaaefd0": [
+            [
+                {
+                    "count": 163876,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+
+        "69063eb38acdc76d8466b29c": [
+            [
+                {
+                    "count": 286810,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        
+        "6906400e53370f04678c9a21": [
+            [
+                {
+                    "count": 193378,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],        
+        
+        "690631939677f7bd4995ae2d": [
+            [
+                {
+                    "count": 98347,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],        
+
+        "690599ec69cf3a162f32171a": [
+            [
+                {
+                    "count": 1900,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],	
+        "690599ef01df17765c46a1e9": [
+            [
+                {
+                    "count": 2100,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        "690599f3344347bc99596835": [
+            [
+                {
+                    "count": 2700,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        "690599f6beccc374a1e39cdd": [
+            [
+                {
+                    "count": 5200,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        "69059a184ed58b8a70e75121": [
+            [
+                {
+                    "count": 12612,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ]        
     },
     "loyal_level_items": {
         "68f660fc2b4ccdd8f33e00d7": 1,
@@ -2141,6 +2867,10 @@
         "68f66226bbbdddeee6789fab": 1,
         "68fdc8f352f96cfff0e7c54e": 1,
         "68fdcb8975e2b4fca2540c54": 1,
+        "69062648b72eed31bbaaefd0": 2,
+        "690631939677f7bd4995ae2d": 2,
+        "69063eb38acdc76d8466b29c": 3,
+        "6906400e53370f04678c9a21": 3,
         "69002081352c1b7795744527": 1,
         "6900208b663055a1ce827dd9": 1,
         "690020911ea220292d17f7d9": 1,
@@ -2164,6 +2894,12 @@
         "69002091f3483ebb398d6132": 1,
         "690020915885ec9c3cc745e5": 1,
         "69002091688f7e0e6fa63c71": 1,
-        "690020919d496105e92dedb1": 1
+        "690020919d496105e92dedb1": 1,
+        "690588a4e8b71c302935c887": 4,
+        "690599ec69cf3a162f32171a": 4,
+		"690599ef01df17765c46a1e9": 4,
+		"690599f3344347bc99596835": 4,
+		"690599f6beccc374a1e39cdd": 4,
+		"69059a184ed58b8a70e75121": 4
     }
 }
