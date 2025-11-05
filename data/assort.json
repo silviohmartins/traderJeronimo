@@ -12,7 +12,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-        
+
 		{
 			"_id": "68f66fab56fededa8e2abd13",
 			"_tpl": "5d6e6911a4b9361bd5780d52",
@@ -22,8 +22,8 @@
 			"upd": {
 				"StackObjectsCount": 25
 			}
-		},		
-		
+		},
+
         {
             "_id": "68f6612c1285c68c79e1a52f",
             "_tpl": "64898838d5b4df6140000a20",
@@ -36,7 +36,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f66fd0a600726e8ea5da1c",
 			"_tpl": "5d6e68a8a4b9360b6c0d54e2",
@@ -46,8 +46,8 @@
 			"upd": {
 				"StackObjectsCount": 25
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66158c08fbb223ac46866",
             "_tpl": "67657764c832f8c59c016d45",
@@ -60,7 +60,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f66fe5dc3f13c19981c118",
 			"_tpl": "660137d8481cc6907a0c5cda",
@@ -70,8 +70,8 @@
 			"upd": {
 				"StackObjectsCount": 25
 			}
-		},				
-        
+		},
+
         {
             "_id": "68f661820c83e3d3e7c82e2f",
             "_tpl": "657024b8bfc87b3a34093232",
@@ -84,7 +84,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6705424f141cc7b87e015",
 			"_tpl": "5e85aa1a988a8701445df1f5",
@@ -94,8 +94,8 @@
 			"upd": {
 				"StackObjectsCount": 5
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f661dcc4f306b35920c6b1",
             "_tpl": "65702610cfc010a0f5006a41",
@@ -108,7 +108,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f67063b22023dfad3d9da6",
 			"_tpl": "573719df2459775a626ccbc2",
@@ -119,7 +119,7 @@
 				"StackObjectsCount": 50
 			}
 		},
-        
+
         {
             "_id": "68f66200a1b2c3d4e5f67801",
             "_tpl": "65702546cfc010a0f5006a1f",
@@ -132,7 +132,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f670a7b621b03a70db5bbf",
 			"_tpl": "573603562459776430731618",
@@ -142,8 +142,8 @@
 			"upd": {
 				"StackObjectsCount": 25
 			}
-		},		
-        
+		},
+
         {
             "_id": "68f66201b2c3d4e5f6789002",
             "_tpl": "648987d673c462723909a151",
@@ -156,7 +156,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f670af0e1c258e2b5f0c4e",
 			"_tpl": "5efb0da7a29a85116f6ea05f",
@@ -166,8 +166,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},				
-        
+		},
+
         {
             "_id": "68f66202c3d4e5f678900103",
             "_tpl": "6489879db5a2df1c815a04ef",
@@ -180,7 +180,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f671136692df8c7058d77e",
 			"_tpl": "5efb0cabfb3e451d70735af5",
@@ -190,8 +190,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66203d4e5f67890011204",
             "_tpl": "6579847c5a0e5879d12f2873",
@@ -204,7 +204,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6712d248a578332b76ee3",
 			"_tpl": "6576f4708ca9c4381d16cd9d",
@@ -214,8 +214,8 @@
 			"upd": {
 				"StackObjectsCount": 30
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66204e5f6789001122305",
             "_tpl": "657023decfc010a0f50069ec",
@@ -228,7 +228,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6717410990019cbc63876",
 			"_tpl": "62330b3ed4dc74626d570b95",
@@ -238,8 +238,8 @@
 			"upd": {
 				"StackObjectsCount": 25
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66205f678900112233406",
             "_tpl": "648986bbc827d4637f01791e",
@@ -252,7 +252,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6717f8a991b2c3d4e5f67",
 			"_tpl": "5cc80f38e4a949001152b560",
@@ -262,8 +262,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f6620607890011223344a7",
             "_tpl": "6489870774a806211e4fb685",
@@ -276,7 +276,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f671c1f00dc4859ae9f319",
 			"_tpl": "5ba26835d4351e0035628ff5",
@@ -286,8 +286,8 @@
 			"upd": {
 				"StackObjectsCount": 40
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f6620718900112233445b8",
             "_tpl": "5c1260dc86f7746b106e8748",
@@ -300,7 +300,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f671de2f383db1af8c7eed",
 			"_tpl": "5c0d688c86f77413ae3407b2",
@@ -310,8 +310,8 @@
 			"upd": {
 				"StackObjectsCount": 8
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f6620829001122334455c9",
             "_tpl": "657023f81419851aef03e6f1",
@@ -324,7 +324,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f67203039c17f02950ff6f",
 			"_tpl": "5f0596629e22f464da6bbdd9",
@@ -334,8 +334,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662093a001122334455da",
             "_tpl": "5c1262a286f7743f8a69aab2",
@@ -348,7 +348,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6722927fe6fb21add8316",
 			"_tpl": "5c0d5e4486f77478390952fe",
@@ -358,8 +358,8 @@
 			"upd": {
 				"StackObjectsCount": 30
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662104b001122334455eb",
             "_tpl": "657025ebc5d7d4cb4d078588",
@@ -372,7 +372,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f672730d627f1a482205c0",
 			"_tpl": "5c0d5e4486f77478390952fe",
@@ -382,8 +382,8 @@
 			"upd": {
 				"StackObjectsCount": 120
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662115c001122334458fc",
             "_tpl": "64898583d5b4df6140000a1d",
@@ -396,7 +396,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f672cec1ce2226dfc775e4",
 			"_tpl": "601949593ae8f707c4608daa",
@@ -406,9 +406,9 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        		
-        
+		},
+
+
         {
             "_id": "68f662126d00112233445a0d",
             "_tpl": "65702681bfc87b3a3409325f",
@@ -421,7 +421,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f672f4a82406d183962e5a",
 			"_tpl": "601949593ae8f707c4608daa",
@@ -431,8 +431,8 @@
 			"upd": {
 				"StackObjectsCount": 100
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662137e00112233445b1e",
             "_tpl": "657024f01419851aef03e715",
@@ -445,7 +445,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6731797c396fff86f0844",
 			"_tpl": "59e690b686f7746c9f75e848",
@@ -455,8 +455,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662148f00112233445c2f",
             "_tpl": "6570265f1419851aef03e739",
@@ -469,7 +469,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6733ebbe4e6fa1b6b50aa",
 			"_tpl": "59e690b686f7746c9f75e848",
@@ -479,8 +479,8 @@
 			"upd": {
 				"StackObjectsCount": 100
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66215a001122334456d40",
             "_tpl": "6489851fc827d4637f01791b",
@@ -493,7 +493,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f673606012d5bfd2efbc39",
 			"_tpl": "601aa3d2b2bcb34913271e6d",
@@ -503,8 +503,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66216b111233445567e51",
             "_tpl": "648985c074a806211e4fb682",
@@ -517,7 +517,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6738aa9b1c2d3e4f56789",
 			"_tpl": "5fd20ff893a8961fc660a954",
@@ -527,8 +527,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66217c222344566678f62",
             "_tpl": "657023a9126cc4a57d0e17a6",
@@ -541,7 +541,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f673a4cddc4fe38ab12e88",
 			"_tpl": "64b8725c4b75259c590fa899",
@@ -551,8 +551,8 @@
 			"upd": {
 				"StackObjectsCount": 50
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66218d333455677789073",
             "_tpl": "67600a516f01341c9106ab4c",
@@ -565,7 +565,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f673ce82c892e04c1eba43",
 			"_tpl": "6529243824cbe3c74a05e5c1",
@@ -575,8 +575,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66219e444566788891284",
             "_tpl": "6570254fcfc010a0f5006a22",
@@ -589,7 +589,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f673f1533a701306d43e42",
 			"_tpl": "5a6086ea4f39f99cd479502f",
@@ -599,8 +599,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66220f5556778999a1395",
             "_tpl": "648984e3f09d032aa9399d53",
@@ -613,7 +613,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f67410c3132243072079b0",
 			"_tpl": "5efb0c1bd79ff02a1f5e68d9",
@@ -623,8 +623,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662210666788899ab14a6",
             "_tpl": "6769b8e3c1a1466c850658a8",
@@ -637,7 +637,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6743356a5726b3eb9c3fe",
 			"_tpl": "6768c25aa7b238f14a08d3f6",
@@ -647,8 +647,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},				
-        
+		},
+
         {
             "_id": "68f6622217778999aab215b7",
             "_tpl": "65702572c5d7d4cb4d078576",
@@ -661,7 +661,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6744fbb0196e33e87a2a0",
 			"_tpl": "5e023d34e8a400319a28ed44",
@@ -671,8 +671,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662232888aaabbb3456c8",
             "_tpl": "560d75f54bdc2da74d8b4573",
@@ -685,7 +685,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f6748059f4c8dc7f957254",
 			"_tpl": "560d61e84bdc2da74d8b4571",
@@ -695,8 +695,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f662243999bbbccc4567d9",
             "_tpl": "648984b8d5b4df6140000a1a",
@@ -709,7 +709,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f674a27fc0f83df266b825",
 			"_tpl": "5e023d48186a883be655e551",
@@ -719,8 +719,8 @@
 			"upd": {
 				"StackObjectsCount": 20
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66225aaacccdddd5678ea",
             "_tpl": "648983d6b5a2df1c815a04ec",
@@ -733,7 +733,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f674c3c057f46980291fa1",
 			"_tpl": "5cadf6eeae921500134b2799",
@@ -743,8 +743,8 @@
 			"upd": {
 				"StackObjectsCount": 10
 			}
-		},			
-        
+		},
+
         {
             "_id": "68f66226bbbdddeee6789fab",
             "_tpl": "6489848173c462723909a14b",
@@ -757,7 +757,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "68f674eafc7842245f74201b",
 			"_tpl": "5fc382a9d724d907e2077dab",
@@ -781,7 +781,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002371ae270199d9d17c1a",
 			"_tpl": "64b8ee384b75259c590fa89b",
@@ -805,7 +805,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023765f6459d51495ccb9",
 			"_tpl": "5d6e68c4a4b9361b93413f79",
@@ -829,7 +829,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023796ddb3089abb750b5",
 			"_tpl": "660137ef76c1b56143052be8",
@@ -853,7 +853,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023795a0116961412c032",
 			"_tpl": "57371aab2459775a77142f22",
@@ -877,7 +877,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237902d72f693bc2e31c",
 			"_tpl": "573603c924597764442bd9cb",
@@ -901,7 +901,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379e37892adab4780d0",
 			"_tpl": "5c925fa22e221601da359b7b",
@@ -925,7 +925,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237993124cdae659a2b0",
 			"_tpl": "5e81f423763d9f754677bf2e",
@@ -949,7 +949,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379ccdd5ef0727bc7b5",
 			"_tpl": "66a0d1e0ed648d72fe064d06",
@@ -973,7 +973,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379401f7da4b645d754",
 			"_tpl": "668fe62ac62660a5d8071446",
@@ -997,7 +997,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379e8d980bd21dafee0",
 			"_tpl": "5a26ac0ec4a28200741e1e18",
@@ -1021,7 +1021,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023790d0d99ef490b6be6",
 			"_tpl": "62330c18744e5e31df12f516",
@@ -1045,7 +1045,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379c595abf61198d6f4",
 			"_tpl": "5cc80f67e4a949035e43bbba",
@@ -1069,7 +1069,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379a516d62cf6543b86",
 			"_tpl": "5ba2678ad4351e44f824b344",
@@ -1093,7 +1093,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237989ae578859cc8717",
 			"_tpl": "57a0e5022459774d1673f889",
@@ -1117,7 +1117,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237912e485af943404be",
 			"_tpl": "59e655cb86f77411dc52a77b",
@@ -1141,7 +1141,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023791ee87c6a452f525e",
 			"_tpl": "56dfef82d2720bbd668b4567",
@@ -1165,7 +1165,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237966223cf7e6f460fa",
 			"_tpl": "56dff026d2720bb8668b4567",
@@ -1189,7 +1189,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023791a6908b79fc7d999",
 			"_tpl": "54527ac44bdc2d36668b4567",
@@ -1213,7 +1213,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237978aa34f5fa957473",
 			"_tpl": "64b7af434b75259c590fa893",
@@ -1237,7 +1237,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237973a2e4d24c6e9501",
 			"_tpl": "59e0d99486f7744a32234762",
@@ -1261,7 +1261,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237959a37a81b017cdf8",
 			"_tpl": "619636be6db0f2477964e710",
@@ -1285,7 +1285,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "69002379b3f25844b65d73df",
 			"_tpl": "6529302b8c26af6326029fb7",
@@ -1309,7 +1309,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "6900237940983633a77b2b76",
 			"_tpl": "5cadf6ddae9215051e1c23b2",
@@ -1333,7 +1333,7 @@
 				"BuyRestrictionCurrent": 0
             }
         },
-		
+
 		{
 			"_id": "690023798cbc74e9344c2155",
 			"_tpl": "5fc275cf85fd526b824a571a",
@@ -1392,7 +1392,7 @@
 				"BuyRestrictionMax": 20,
 				"BuyRestrictionCurrent": 0
             }
-        },	
+        },
         {
             "_id": "69059a184ed58b8a70e75121",
             "_tpl": "67d418d0ffb910d21f04720e",
@@ -1404,7 +1404,7 @@
 				"BuyRestrictionMax": 2,
 				"BuyRestrictionCurrent": 0
             }
-        },	        
+        },
 
 	    {
 	        "_id": "690588a4e8b71c302935c887",
@@ -1414,7 +1414,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 92,
-		        "MaxDurability": 100	
+		        "MaxDurability": 100
 				},
 		        "FireMode": {
 		            "FireMode": "single"
@@ -1468,7 +1468,7 @@
 	        "_tpl": "6130ca3fd92c473c77020dbd",
 	        "parentId": "690588a4e8b71c302935c887",
 	        "slotId": "mod_charge"
-	    },        
+	    },
 
 
 	    {
@@ -1715,7 +1715,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 73,
-		        "MaxDurability": 80	
+		        "MaxDurability": 80
 				},
 		        "FireMode": {
 		            "FireMode": "single"
@@ -1830,7 +1830,7 @@
             "parentId": "69062648b72eed31bbaaefd0",
             "slotId": "mod_charge"
 		},
-        
+
 	    {
 	        "_id": "690631939677f7bd4995ae2d",
 	        "_tpl": "5644bd2b4bdc2d3b4c8b4572",
@@ -1839,7 +1839,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 73,
-		        "MaxDurability": 80	
+		        "MaxDurability": 80
 				},
 		        "FireMode": {
 		            "FireMode": "single"
@@ -1930,7 +1930,7 @@
             "parentId": "690631939677f7bd4995ae2d",
             "slotId": "mod_magazine"
 		},
-        
+
 	    {
 	        "_id": "69063eb38acdc76d8466b29c",
 	        "_tpl": "5447a9cd4bdc2dbd208b4567",
@@ -1939,7 +1939,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 81,
-		        "MaxDurability": 90	
+		        "MaxDurability": 90
 				},
 		        "FireMode": {
 		            "FireMode": "single"
@@ -2066,7 +2066,7 @@
             "parentId": "69063eb38acdc76d8466b29c",
             "slotId": "mod_magazine"
 		},
-        
+
 	    {
 	        "_id": "6906400e53370f04678c9a21",
 	        "_tpl": "5fbcc1d9016cce60e8341ab3",
@@ -2075,7 +2075,7 @@
 	        "upd": {
 		        "Repairable": {
 		        "Durability": 81,
-		        "MaxDurability": 90	
+		        "MaxDurability": 90
 				},
 		        "FireMode": {
 		            "FireMode": "single"
@@ -2219,8 +2219,8 @@
             "_tpl": "6516e9d7e239bd0c487e3766",
             "parentId": "6906407f81a4ad24067d700e",
             "slotId": "mod_stock_000"
-		}        
-    
+		}
+
 
     ],
     "barter_scheme": {
@@ -2232,7 +2232,7 @@
                 }
             ]
         ],
-        
+
         "68f6612c1285c68c79e1a52f": [
             [
                 {
@@ -2241,7 +2241,7 @@
                 }
             ]
         ],
-        
+
         "68f66158c08fbb223ac46866": [
             [
                 {
@@ -2250,7 +2250,7 @@
                 }
             ]
         ],
-        
+
         "68f661820c83e3d3e7c82e2f": [
             [
                 {
@@ -2259,7 +2259,7 @@
                 }
             ]
         ],
-        
+
         "68f661dcc4f306b35920c6b1": [
             [
                 {
@@ -2268,7 +2268,7 @@
                 }
             ]
         ],
-        
+
         "68f66200a1b2c3d4e5f67801": [
             [
                 {
@@ -2277,7 +2277,7 @@
                 }
             ]
         ],
-        
+
         "68f66201b2c3d4e5f6789002": [
             [
                 {
@@ -2286,7 +2286,7 @@
                 }
             ]
         ],
-        
+
         "68f66202c3d4e5f678900103": [
             [
                 {
@@ -2295,7 +2295,7 @@
                 }
             ]
         ],
-        
+
         "68f66203d4e5f67890011204": [
             [
                 {
@@ -2304,7 +2304,7 @@
                 }
             ]
         ],
-        
+
         "68f66204e5f6789001122305": [
             [
                 {
@@ -2313,7 +2313,7 @@
                 }
             ]
         ],
-        
+
         "68f66205f678900112233406": [
             [
                 {
@@ -2322,7 +2322,7 @@
                 }
             ]
         ],
-        
+
         "68f6620607890011223344a7": [
             [
                 {
@@ -2331,7 +2331,7 @@
                 }
             ]
         ],
-        
+
         "68f6620718900112233445b8": [
             [
                 {
@@ -2340,7 +2340,7 @@
                 }
             ]
         ],
-        
+
         "68f6620829001122334455c9": [
             [
                 {
@@ -2349,7 +2349,7 @@
                 }
             ]
         ],
-        
+
         "68f662093a001122334455da": [
             [
                 {
@@ -2358,7 +2358,7 @@
                 }
             ]
         ],
-        
+
         "68f662104b001122334455eb": [
             [
                 {
@@ -2367,7 +2367,7 @@
                 }
             ]
         ],
-        
+
         "68f662115c001122334458fc": [
             [
                 {
@@ -2376,7 +2376,7 @@
                 }
             ]
         ],
-        
+
         "68f662126d00112233445a0d": [
             [
                 {
@@ -2385,7 +2385,7 @@
                 }
             ]
         ],
-        
+
         "68f662137e00112233445b1e": [
             [
                 {
@@ -2394,7 +2394,7 @@
                 }
             ]
         ],
-        
+
         "68f662148f00112233445c2f": [
             [
                 {
@@ -2403,7 +2403,7 @@
                 }
             ]
         ],
-        
+
         "68f66215a001122334456d40": [
             [
                 {
@@ -2412,7 +2412,7 @@
                 }
             ]
         ],
-        
+
         "68f66216b111233445567e51": [
             [
                 {
@@ -2421,7 +2421,7 @@
                 }
             ]
         ],
-        
+
         "68f66217c222344566678f62": [
             [
                 {
@@ -2430,7 +2430,7 @@
                 }
             ]
         ],
-        
+
         "68f66218d333455677789073": [
             [
                 {
@@ -2439,7 +2439,7 @@
                 }
             ]
         ],
-        
+
         "68f66219e444566788891284": [
             [
                 {
@@ -2448,7 +2448,7 @@
                 }
             ]
         ],
-        
+
         "68f66220f5556778999a1395": [
             [
                 {
@@ -2457,7 +2457,7 @@
                 }
             ]
         ],
-        
+
         "68f662210666788899ab14a6": [
             [
                 {
@@ -2466,7 +2466,7 @@
                 }
             ]
         ],
-        
+
         "68f6622217778999aab215b7": [
             [
                 {
@@ -2475,7 +2475,7 @@
                 }
             ]
         ],
-        
+
         "68f662232888aaabbb3456c8": [
             [
                 {
@@ -2484,7 +2484,7 @@
                 }
             ]
         ],
-        
+
         "68f662243999bbbccc4567d9": [
             [
                 {
@@ -2493,7 +2493,7 @@
                 }
             ]
         ],
-        
+
         "68f66225aaacccdddd5678ea": [
             [
                 {
@@ -2502,7 +2502,7 @@
                 }
             ]
         ],
-        
+
         "68f66226bbbdddeee6789fab": [
             [
                 {
@@ -2735,8 +2735,8 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ],	        
-        
+        ],
+
         "68fdc8f352f96cfff0e7c54e": [
             [
                 {
@@ -2745,7 +2745,7 @@
                 }
             ]
         ],
-        
+
         "68fdcb8975e2b4fca2540c54": [
             [
                 {
@@ -2772,7 +2772,7 @@
                 }
             ]
         ],
-        
+
         "6906400e53370f04678c9a21": [
             [
                 {
@@ -2780,8 +2780,8 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ],        
-        
+        ],
+
         "690631939677f7bd4995ae2d": [
             [
                 {
@@ -2789,7 +2789,7 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ],        
+        ],
 
         "690599ec69cf3a162f32171a": [
             [
@@ -2798,7 +2798,7 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ],	
+        ],
         "690599ef01df17765c46a1e9": [
             [
                 {
@@ -2830,7 +2830,7 @@
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
-        ]        
+        ]
     },
     "loyal_level_items": {
         "68f660fc2b4ccdd8f33e00d7": 1,
@@ -2897,9 +2897,9 @@
         "690020919d496105e92dedb1": 1,
         "690588a4e8b71c302935c887": 1,
         "690599ec69cf3a162f32171a": 1,
-		"690599ef01df17765c46a1e9": 1,
-		"690599f3344347bc99596835": 1,
-		"690599f6beccc374a1e39cdd": 1,
-		"69059a184ed58b8a70e75121": 1
+        "690599ef01df17765c46a1e9": 1,
+        "690599f3344347bc99596835": 1,
+        "690599f6beccc374a1e39cdd": 1,
+        "69059a184ed58b8a70e75121": 1
     }
 }

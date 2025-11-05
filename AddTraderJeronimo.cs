@@ -11,7 +11,7 @@ using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using Path = System.IO.Path;
 
-namespace _traderJeronimo;
+namespace traderJeronimo;
 
 public record ModMetadata : AbstractModMetadata
 {
@@ -33,13 +33,12 @@ public record ModMetadata : AbstractModMetadata
 /// Priority +2 ensures this loads AFTER the custom items mod (+1)
 /// </summary>
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
-public class AddTraderWithAssortJson(
+public class AddTraderJeronimo(
     ModHelper modHelper,
     ImageRouter imageRouter,
     ConfigServer configServer,
     TimeUtil timeUtil,
-    AddCustomTraderHelper addCustomTraderHelper,
-    ILogger<AddTraderWithAssortJson> logger
+    AddCustomTraderHelper addCustomTraderHelper
 )
     : IOnLoad
 {
